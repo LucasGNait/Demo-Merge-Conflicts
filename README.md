@@ -1,3 +1,2 @@
 # Demo-Merge-Conflicts
-
-by Lucas Gannon
+A simple demo, by Lucas Gannon, for DMIT 2018
